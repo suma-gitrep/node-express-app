@@ -31,8 +31,7 @@ app.get('/', function (req, res) {
     '<a href="https://docs.npmjs.com/cli/link.html">Node.js documentation</a>'+
     '</li>'+
     '</ul>'+
-    '<hr>'+
-    'Fork the source code from <a href="https://github.com/denisecase/node-express-app">https://github.com/denisecase/node-express-app</a>'
+    '<hr>'
   )
 })
 
